@@ -11,7 +11,7 @@
 Serious warning:<br>
 The copyright of this software belongs to Microsoft. Please abide by the relevant Microsoft treaties when using it!<br>
 I will not be liable for any disputes arising from the use of users!<br>
-许可证：
+许可证：<br>
 License-body:
     
     MIT License
@@ -36,4 +36,3 @@ License-body:
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 # 意见反馈
 您可以将软件内包含英文状态的页面截屏并发送到邮箱 feedbackongithub@163.com，我会不定期查看。
-
