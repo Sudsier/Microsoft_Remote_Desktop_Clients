@@ -5,12 +5,12 @@
 # 如何下载
 您可以<a href="https://github.com/FunMinecraft/Microsoft_Remote_Desktop_Clients/releases">点击这里</a>或点击本页面的release标签转至下载页面。
 # 许可证
-严正警告：
-此软件著作版权归Microsoft所有，使用时请遵守Microsoft相关条约！
-用户使用时产生的任何纠纷，本人一律不负法律责任！
-Serious warning:
-The copyright of this software belongs to Microsoft. Please abide by the relevant Microsoft treaties when using it!
-I will not be liable for any disputes arising from the use of users!
+严正警告：<br>
+此软件著作版权归Microsoft所有，使用时请遵守Microsoft相关条约！<br>
+用户使用时产生的任何纠纷，本人一律不负法律责任！<br>
+Serious warning:<br>
+The copyright of this software belongs to Microsoft. Please abide by the relevant Microsoft treaties when using it!<br>
+I will not be liable for any disputes arising from the use of users!<br>
 许可证：
 License-body:
     
